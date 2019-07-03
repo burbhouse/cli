@@ -1,1 +1,1 @@
-# burbhouse-scripts
+# burbhouse-cli
