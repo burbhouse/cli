@@ -245,6 +245,11 @@ nice-try@^1.0.4:
   resolved "https://registry.yarnpkg.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
   integrity sha512-1nh45deeb5olNY7eX82BkPO7SSxR5SSYJiPTrTdFUVYwAl8CKMA5N9PjTYkHiRjisVcxcQ1HXdLhx2qxxJzLNQ==
 
+node-watch@^0.6.2:
+  version "0.6.2"
+  resolved "https://registry.yarnpkg.com/node-watch/-/node-watch-0.6.2.tgz#48fd517b527ec21ac4f5f981aad2a6ddebc0131c"
+  integrity sha512-qmb/2ehVk1DC4gZYox7JgWXNucKnVk7uQmcoSeRaC7kzXsT8VOPIe7mbrR9Vc2TpGggS2yGUcgC98A2fKE53AA==
+
 npm-run-path@^2.0.0:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/npm-run-path/-/npm-run-path-2.0.2.tgz#35a9232dfa35d7067b4cb2ddf2357b1871536c5f"

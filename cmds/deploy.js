@@ -11,7 +11,7 @@ module.exports = async (dir, args) => {
   console.log(chalk.white(args.files ? '-- with static files' : '')+'\n')
 
   // create temp directory
-  const temp = `${process.env.HOME}/bhdeploy-${config.site}`
+  const temp = `${process.env.HOME}/.bh/deploy/${config.site}`
   await exec(`rm -rf ${temp} && mkdir ${temp}`)
 
   // clone core repo
